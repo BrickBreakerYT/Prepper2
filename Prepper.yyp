@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":1,},
     {"id":{"name":"SprBRT7Idle","path":"sprites/SprBRT7Idle/SprBRT7Idle.yy",},"order":2,},
+    {"id":{"name":"SpriteCheck","path":"sprites/SpriteCheck/SpriteCheck.yy",},"order":6,},
     {"id":{"name":"SprBkrWake","path":"sprites/SprBkrWake/SprBkrWake.yy",},"order":1,},
     {"id":{"name":"SprPlrWalk","path":"sprites/SprPlrWalk/SprPlrWalk.yy",},"order":0,},
     {"id":{"name":"SprBkrIdle","path":"sprites/SprBkrIdle/SprBkrIdle.yy",},"order":0,},
